@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>traffic.png</Source>
+      <Name>traffic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\traffic.xnb</Output>
+      <Time>2011-11-11T00:12:41.375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2012-02-06T13:51:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>traffic2.png</Source>
+      <Name>traffic2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\traffic2.xnb</Output>
+      <Time>2012-02-06T14:09:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>traffic3.png</Source>
+      <Name>traffic3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\traffic3.xnb</Output>
+      <Time>2011-11-11T00:12:41.390625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>traffic4.png</Source>
+      <Name>traffic4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\traffic4.xnb</Output>
+      <Time>2011-11-11T00:12:41.390625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>traffic5.png</Source>
+      <Name>traffic5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\traffic5.xnb</Output>
+      <Time>2011-11-11T00:12:41.390625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>boss1.png</Source>
+      <Name>boss1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\boss1.xnb</Output>
+      <Time>2011-11-20T23:58:52.46875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Pavements.png</Source>
+      <Name>Pavements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\Pavements.xnb</Output>
+      <Time>2011-11-28T18:21:30.734375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Mine.png</Source>
+      <Name>Mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\Mine.xnb</Output>
+      <Time>2012-01-14T22:27:29.0625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spikestrip.png</Source>
+      <Name>spikestrip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\spikestrip.xnb</Output>
+      <Time>2012-01-14T22:27:29.0625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2012-01-28T14:00:05.09375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2012-01-28T14:00:05.09375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\background.PNG</Source>
+      <Name>images\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\images\background.xnb</Output>
+      <Time>2012-01-28T14:00:05.15625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2011-11-11T00:12:42.21875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\HowWeRoll.mp3</Source>
+      <Name>sounds\HowWeRoll</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\HowWeRoll.xnb</Output>
+      <Extra>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\HowWeRoll.wma</Extra>
+      <Time>2011-11-11T00:12:41.375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\CarCrash.mp3</Source>
+      <Name>sounds\CarCrash</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\CarCrash.xnb</Output>
+      <Extra>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\CarCrash.wma</Extra>
+      <Time>2012-01-16T19:59:10.421875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\susanoo.mp3</Source>
+      <Name>sounds\susanoo</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\susanoo.xnb</Output>
+      <Extra>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\susanoo.wma</Extra>
+      <Time>2012-02-04T17:43:10.296875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\kakazu.mp3</Source>
+      <Name>sounds\kakazu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\kakazu.xnb</Output>
+      <Extra>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\kakazu.wma</Extra>
+      <Time>2012-02-04T18:15:31.46875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\akatsuki.mp3</Source>
+      <Name>sounds\akatsuki</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\akatsuki.xnb</Output>
+      <Extra>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\akatsuki.wma</Extra>
+      <Time>2012-02-04T18:17:32.90625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\explosion.wav</Source>
+      <Name>sounds\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\explosion.xnb</Output>
+      <Time>2011-11-11T00:12:42.109375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\carUnlock.wav</Source>
+      <Name>sounds\carUnlock</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\carUnlock.xnb</Output>
+      <Time>2012-01-20T18:48:55.984375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\skid.wav</Source>
+      <Name>sounds\skid</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\sounds\skid.xnb</Output>
+      <Time>2012-02-05T13:08:19.015625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2012-01-28T14:00:05.09375-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie DriversContent\</RootDirectory>
+      <LoggerRootDirectory>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie DriversContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\SUMEET\Gaming Triad\SVN Repository\Rookie Drivers\Rookie Drivers\Rookie Drivers\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-08-11T21:23:55.796875-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
